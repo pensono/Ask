@@ -1,0 +1,8 @@
+name: Ask
+main: gg.ask.Ask
+version: 0.4b
+
+commands:
+    ask:
+        description: Ask a question. ? for help.
+        usage: /ask
